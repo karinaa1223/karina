@@ -8,10 +8,16 @@
   background: blue;
   color: white;
   height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .header__content{
   background: cadetblue;
   color: white;
   height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
